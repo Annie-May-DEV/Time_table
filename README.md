@@ -1,2 +1,2 @@
 # Time_table
-Time_table app
+Time_table_System
